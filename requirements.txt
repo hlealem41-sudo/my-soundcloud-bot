@@ -1,3 +1,2 @@
 pyTelegramBotAPI
-yt-dlp
-ffmpeg-python
+yt-dlp>=2025.01.01
